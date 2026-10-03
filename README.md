@@ -4,7 +4,7 @@ This repository contains the documents, simulation scripts, experimental data, a
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -27,7 +27,7 @@ This repository contains the documents, simulation scripts, experimental data, a
 
 ---
 
-## 🚀 Overview of Contents
+##  Overview of Contents
 
 - **Case Study 1**:
   - Focuses on RSSI measurements, grid position analysis, and Wi-Fi simulations / multiple access comparisons (FDMA, TDMA, OFDMA).
@@ -40,7 +40,7 @@ This repository contains the documents, simulation scripts, experimental data, a
 
 ---
 
-## 🛠️ Requirements & How to Run
+##  Requirements & How to Run
 
 - **MATLAB**:
   - Run `scratch/manet_tdma_sim.m` in any standard MATLAB environment to generate MANET network topology and packet delivery ratio (PDR) graphs.
